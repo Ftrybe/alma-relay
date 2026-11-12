@@ -22,7 +22,7 @@ Alma 自带一个官方中继（`relay.alma.now`）。如果你希望流量只�
 
 ### 方案 A：Cloudflare Workers（免费，不需要服务器）
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yetone/alma-relay)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Ftrybe/alma-relay)
 
 或者克隆后用命令行部署：
 
