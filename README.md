@@ -26,7 +26,7 @@ Pick one. Each takes a few minutes.
 
 ### Option A: Cloudflare Workers (free, no server)
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yetone/alma-relay)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Ftrybe/alma-relay)
 
 Or from a clone:
 
